@@ -1,6 +1,12 @@
 I’m @spookyorange
+
+
 I’m interested in coding web apps, ruby, and video games
+
+
 I’m currently learning ruby and ruby on rails to become a web developer
+
+
 Reach me via e-mail : korkmazcoltu@mail.ru
 
 <!---
