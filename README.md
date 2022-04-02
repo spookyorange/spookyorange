@@ -4,7 +4,9 @@ I do Full-Stack with Ruby on Rails as back-end(for now)
 
 
 Reach me via e-mail : korkmazcoltu@mail.ru
-Personal Portfolio: spookyorange.com
+
+
+Personal Portfolio: https://www.spookyorange.com
 
 
 <!---
