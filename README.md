@@ -1,5 +1,7 @@
 I’m @spookyorange,
+
 I code web apps,
+
 I do Full-Stack with Ruby on Rails as back-end(for now)
 
 
