@@ -1,13 +1,11 @@
-I’m @spookyorange
-
-
-I’m interested in coding web apps, ruby, and video games
-
-
-I’m currently learning ruby and ruby on rails to become a full stack web developer
+I’m @spookyorange,
+I code web apps,
+I do Full-Stack with Ruby on Rails as back-end(for now)
 
 
 Reach me via e-mail : korkmazcoltu@mail.ru
+Personal Portfolio: spookyorange.com
+
 
 <!---
 spookyorange/spookyorange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
