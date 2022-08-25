@@ -2,8 +2,9 @@ I’m @spookyorange,
 
 I code web apps,
 
-I do Full-Stack with Ruby on Rails as back-end(for now)
+Ruby/Ruby on Rails and TailwindCSS are my favorites!
 
+I enjoy some good metal, Slipknot is my favorite right now!
 
 Reach me via e-mail : korkmazcoltu@mail.ru
 
