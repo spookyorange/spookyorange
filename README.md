@@ -1,15 +1,8 @@
-I’m @spookyorange,
+this is Spookyorange or Korkmaz ÇOLTU, whatever you wanna call.
 
-I code web apps,
+I am a full-stack web developer.
 
-Ruby/Ruby on Rails and TailwindCSS are my favorites!
-
-I enjoy some good metal, Slipknot is my favorite right now!
-
-Reach me via e-mail : korkmazcoltu@mail.ru
-
-
-Personal Portfolio: https://www.spookyorange.com
+Reach me via e-mail : spookyorange@duck.com
 
 
 <!---
