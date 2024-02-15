@@ -1,6 +1,6 @@
-this is Spookyorange or Korkmaz ÇOLTU, whatever you wanna call.
+Hey!!, this is Spookyorange.
 
-I am a full-stack web developer.
+I am a developer.
 
 Reach me via e-mail : spookyorange@duck.com
 
