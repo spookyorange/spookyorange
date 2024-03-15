@@ -1,6 +1,6 @@
 Hey!!, this is Spookyorange.
 
-I am a developer.
+I am a developer, I used to love Ruby, use NodeJS for work related mostly, but nowadays I'd call myself an Elixir enthusiast.
 
 Reach me via e-mail : spookyorange@duck.com
 
