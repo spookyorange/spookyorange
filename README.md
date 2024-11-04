@@ -1,6 +1,6 @@
 Hey!!, this is Spookyorange.
 
-I am a developer, I used to love Ruby, use NodeJS for work related mostly, but nowadays I'd call myself an Elixir enthusiast.
+I am a an ambitious web developer who gets the job done. I am interested in Elixir/Phoenix & Linux(generally), and use Django/NestJS professionally.
 
 ~
 "And now that you've been broken down
