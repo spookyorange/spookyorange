@@ -4,8 +4,11 @@ I am an ambitious web developer who gets the job done. I am interested in Elixir
 
 ~
 "Enter in the realm of nothingness
+
 I feel the cold, my eyes are shut, my fear is slowly dying
+
 Light years from here are my thoughts and cages
+
 I can hear their moan, but now a long deep breath is calling"
 ~
 
