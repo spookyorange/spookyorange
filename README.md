@@ -3,17 +3,10 @@ Hey!!, this is Spookyorange.
 I am an ambitious web developer who gets the job done. I am interested in Elixir/Phoenix & Linux(generally), and use Django/NestJS professionally.
 
 ~
-"And now that you've been broken down
-
-Got your head out of the clouds
-
-You're back down on the ground
-
-And you don't talk so loud
-
-And you don't walk so proud
-
-Anymore, and what for?"
+"Enter in the realm of nothingness
+I feel the cold, my eyes are shut, my fear is slowly dying
+Light years from here are my thoughts and cages
+I can hear their moan, but now a long deep breath is calling"
 ~
 
 Reach me via e-mail : spookyorange@duck.com
