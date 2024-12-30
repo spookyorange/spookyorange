@@ -1,6 +1,6 @@
 Hey!!, this is Spookyorange.
 
-I am an ambitious web developer who gets the job done. I am interested in Elixir/Phoenix & Linux(generally), and use Django/NestJS professionally.
+I am an ambitious web developer who gets the job done. I am interested in Elixir/Phoenix & Linux(generally), and use Django/NestJS professionally. I am also a professional React hater, I do it full-time.
 
 ~
 "Enter in the realm of nothingness
