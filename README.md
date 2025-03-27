@@ -12,7 +12,7 @@ Light years from here are my thoughts and cages
 I can hear their moan, but now a long deep breath is calling"
 ~
 
-Reach me via e-mail : spookyorange@duck.com
+Reach me via e-mail : salutations@spookyorange.com
 
 <!---
 spookyorange/spookyorange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
