@@ -1,18 +1,14 @@
-Hey!!, this is Spookyorange.
+fullstack web dev, who loves open source.
 
-I am an ambitious web developer who gets the job done. I am interested in Elixir/Phoenix & Linux(generally), and use Django/NestJS professionally. I am also a professional React hater, I do it full-time.
+~"Suların sesini dinle şimdi, ormanın fısıldayışlarını
 
-~
-"Enter in the realm of nothingness
+Yarılıyor dağların göğsü, bir aşkı dinlendirmek için
 
-I feel the cold, my eyes are shut, my fear is slowly dying
+Ve gözleri, uzak yamaçlarda aranıp dururken bir şeyleri
 
-Light years from here are my thoughts and cages
+Sessiz ve sakin, beklemekte, bekledikçe bileylenen yürek"~
 
-I can hear their moan, but now a long deep breath is calling"
-~
-
-Reach me via e-mail : salutations@spookyorange.com
+Shoot an e-mail to me if you want to chat a bit: salutations@spookyorange.com
 
 <!---
 spookyorange/spookyorange is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
